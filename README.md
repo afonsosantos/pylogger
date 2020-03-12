@@ -7,6 +7,17 @@ A keylogger made with Python and Pynput
 - Captures all keyboard inputs from the user
 - ...
 
+## Libraries
+
+### Available in PIP
+
+- Pynput
+- auto-py-to-exe
+
+### Standard
+
+- logging
+
 ## Installation
 
 ```
